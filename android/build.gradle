@@ -37,7 +37,7 @@ android {
         api 'androidx.annotation:annotation:1.0.0'
         implementation 'com.google.firebase:firebase-ml-vision:24.0.3'
         implementation 'com.google.android.gms:play-servic
-  es-vision-common:19.0.2'
+  es-vision-common:19.1.1'
         // implementation 'com.google.firebase:firebase-core:17.5.1'
     }
 }
