@@ -35,7 +35,6 @@ android {
     dependencies {
         api 'androidx.appcompat:appcompat:1.0.0'
         api 'androidx.annotation:annotation:1.0.0'
-        implementation 'com.google.firebase:firebase-ml-vision:24.0.3'
         implementation 'com.google.android.gms:play-services-vision:20.0.0'
     
         // ML Kit dependencies
